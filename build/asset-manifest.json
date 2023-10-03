@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.84234c15.css",
+    "main.js": "/static/js/main.07853f6f.js",
+    "static/media/Bhaskar.ttf": "/static/media/Bhaskar.0f69f744023f27cc9dc5.ttf",
+    "index.html": "/index.html",
+    "main.84234c15.css.map": "/static/css/main.84234c15.css.map",
+    "main.07853f6f.js.map": "/static/js/main.07853f6f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84234c15.css",
+    "static/js/main.07853f6f.js"
+  ]
+}
